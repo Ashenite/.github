@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Ashenite/.github/blob/main/ashenite.png" alt="Ashenite Logo">
-</div>
-
 <h1 align="center">Ashenite</h1>
 
 <h3 align="center">Perfection isn't Enough</h3>
